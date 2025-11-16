@@ -1,4 +1,5 @@
-"name": "linuxtips-javascripts",
+{
+  "name": "linuxtips-javascripts",
   "version": "1.0.0",
   "scripts": {
     "test:create": "jest __tests__/createUser.test.js",
